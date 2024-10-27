@@ -1,0 +1,1258 @@
+[{
+  "_id": "6694ce6f0ec193c713fe1db5",
+  "store_id": "66271a21938a11cdf6a0c5ff",
+  "owner_id": "65a493f638bbfcf75a3efc70",
+  "title": {
+    "kh": "",
+    "en": "APPLE"
+  },
+  "logo": "PWBcalNyeASVEjZAhBNobSOEPvoDDUjfrho1fJNSzieLK1.png",
+  "created_at": {
+    "$date": "2024-07-15T07:23:27.627Z"
+  },
+  "updated_at": {
+    "$date": "2024-07-15T07:23:27.627Z"
+  },
+  "deleted_at": null
+},
+{
+  "_id": "6694ce7c0ec193c713fe1db6",
+  "store_id": "66271a21938a11cdf6a0c5ff",
+  "owner_id": "65a493f638bbfcf75a3efc70",
+  "title": {
+    "kh": "",
+    "en": "ACER"
+  },
+  "logo": "tiduBZz1KnmYZVJncnFaihuHYVlPFtOUIvhTmvIuGPtego.png",
+  "created_at": {
+    "$date": "2024-07-15T07:23:40.959Z"
+  },
+  "updated_at": {
+    "$date": "2024-07-15T07:23:40.959Z"
+  },
+  "deleted_at": null
+},
+{
+  "_id": "6694ce8c0ec193c713fe1db7",
+  "store_id": "66271a21938a11cdf6a0c5ff",
+  "owner_id": "65a493f638bbfcf75a3efc70",
+  "title": {
+    "kh": "",
+    "en": "ADATA"
+  },
+  "logo": "ilCNkSqCmcXTGsHqYgDfAzwugZgaNcQdoOrNosIsISlKVn.png",
+  "created_at": {
+    "$date": "2024-07-15T07:23:56.633Z"
+  },
+  "updated_at": {
+    "$date": "2024-07-15T07:23:56.633Z"
+  },
+  "deleted_at": null
+},
+{
+  "_id": "6694ce990ec193c713fe1db8",
+  "store_id": "66271a21938a11cdf6a0c5ff",
+  "owner_id": "65a493f638bbfcf75a3efc70",
+  "title": {
+    "kh": "",
+    "en": "APC"
+  },
+  "logo": "uWSqtaTqllAcyYDSRpkzLEfocqqdkFuZlGhaU1bTmOOjWF.png",
+  "created_at": {
+    "$date": "2024-07-15T07:24:09.214Z"
+  },
+  "updated_at": {
+    "$date": "2024-07-15T07:24:09.214Z"
+  },
+  "deleted_at": null
+},
+{
+  "_id": "6694ceaa0ec193c713fe1db9",
+  "store_id": "66271a21938a11cdf6a0c5ff",
+  "owner_id": "65a493f638bbfcf75a3efc70",
+  "title": {
+    "kh": "",
+    "en": "ASUS"
+  },
+  "logo": "HPcUVOdCTZHaPGlIbNxXhxynHADzMHbWYDofKWBiXemmwZ.png",
+  "created_at": {
+    "$date": "2024-07-15T07:24:26.554Z"
+  },
+  "updated_at": {
+    "$date": "2024-07-15T07:24:26.554Z"
+  },
+  "deleted_at": null
+},
+{
+  "_id": "6694cec00ec193c713fe1dba",
+  "store_id": "66271a21938a11cdf6a0c5ff",
+  "owner_id": "65a493f638bbfcf75a3efc70",
+  "title": {
+    "kh": "",
+    "en": "CANON"
+  },
+  "logo": "jCoSDcPcoyznsLYqCXYRgOTEaycdvHrjEQ1rluJmRPuDQa.png",
+  "created_at": {
+    "$date": "2024-07-15T07:24:48.032Z"
+  },
+  "updated_at": {
+    "$date": "2024-07-15T07:24:48.032Z"
+  },
+  "deleted_at": null
+},
+{
+  "_id": "6694ceec0ec193c713fe1dbb",
+  "store_id": "66271a21938a11cdf6a0c5ff",
+  "owner_id": "65a493f638bbfcf75a3efc70",
+  "title": {
+    "kh": "",
+    "en": "DAHUA TECHNOLOGY"
+  },
+  "logo": "rvaMBJhlgsBvOAJFlzIGJyDguuaUkTcPeBkjLzzqmvpODX.png",
+  "created_at": {
+    "$date": "2024-07-15T07:25:32.131Z"
+  },
+  "updated_at": {
+    "$date": "2024-07-15T07:25:32.131Z"
+  },
+  "deleted_at": null
+},
+{
+  "_id": "6694cef70ec193c713fe1dbc",
+  "store_id": "66271a21938a11cdf6a0c5ff",
+  "owner_id": "65a493f638bbfcf75a3efc70",
+  "title": {
+    "kh": "",
+    "en": "DELL"
+  },
+  "logo": "UhStESKihV1ctCi1kzJJxviRzsJFUwETqoZPtVdTXpMGwn.png",
+  "created_at": {
+    "$date": "2024-07-15T07:25:43.548Z"
+  },
+  "updated_at": {
+    "$date": "2024-07-15T07:25:43.548Z"
+  },
+  "deleted_at": null
+},
+{
+  "_id": "6694cf06460a981f9c0f8f2d",
+  "store_id": "66271a21938a11cdf6a0c5ff",
+  "owner_id": "65a493f638bbfcf75a3efc70",
+  "title": {
+    "kh": "",
+    "en": "EPSON"
+  },
+  "logo": "SthCgPIsAzEsHsYeBoROxLIRAGzdJTgPXrfjhzx1qGRuPU.png",
+  "created_at": {
+    "$date": "2024-07-15T07:25:58.254Z"
+  },
+  "updated_at": {
+    "$date": "2024-07-15T07:25:58.254Z"
+  },
+  "deleted_at": null
+},
+{
+  "_id": "6694cf1d460a981f9c0f8f2e",
+  "store_id": "66271a21938a11cdf6a0c5ff",
+  "owner_id": "65a493f638bbfcf75a3efc70",
+  "title": {
+    "kh": "",
+    "en": "HP"
+  },
+  "logo": "FzLaGBLucgMWrZqFqyqg1fjpgrFkm1WyYLxFSyqaqEOorn.png",
+  "created_at": {
+    "$date": "2024-07-15T07:26:21.887Z"
+  },
+  "updated_at": {
+    "$date": "2024-07-15T07:26:21.887Z"
+  },
+  "deleted_at": null
+},
+{
+  "_id": "6694cf32460a981f9c0f8f2f",
+  "store_id": "66271a21938a11cdf6a0c5ff",
+  "owner_id": "65a493f638bbfcf75a3efc70",
+  "title": {
+    "kh": "",
+    "en": "ION"
+  },
+  "logo": "yAseECcVlgOxCJTlgAPNApHIUAloJMuBLshqhBUJEzLElY.png",
+  "created_at": {
+    "$date": "2024-07-15T07:26:42.260Z"
+  },
+  "updated_at": {
+    "$date": "2024-07-15T07:26:42.260Z"
+  },
+  "deleted_at": null
+},
+{
+  "_id": "6694cf45460a981f9c0f8f30",
+  "store_id": "66271a21938a11cdf6a0c5ff",
+  "owner_id": "65a493f638bbfcf75a3efc70",
+  "title": {
+    "kh": "",
+    "en": "LENOVO"
+  },
+  "logo": "NhTTOAXsRQrTXFVeyuHYircMzLdAQdMsCNiBOPHdpcSAbL.png",
+  "created_at": {
+    "$date": "2024-07-15T07:27:01.157Z"
+  },
+  "updated_at": {
+    "$date": "2024-07-15T07:27:01.157Z"
+  },
+  "deleted_at": null
+},
+{
+  "_id": "6694cf56460a981f9c0f8f31",
+  "store_id": "66271a21938a11cdf6a0c5ff",
+  "owner_id": "65a493f638bbfcf75a3efc70",
+  "title": {
+    "kh": "",
+    "en": "MICROSOFT"
+  },
+  "logo": "OpMxHLkaKSbgQnbErohrdvCfNTIqrovaWg1BoAqNsmqSww.png",
+  "created_at": {
+    "$date": "2024-07-15T07:27:18.997Z"
+  },
+  "updated_at": {
+    "$date": "2024-07-15T07:27:18.997Z"
+  },
+  "deleted_at": null
+},
+{
+  "_id": "6694cf63460a981f9c0f8f32",
+  "store_id": "66271a21938a11cdf6a0c5ff",
+  "owner_id": "65a493f638bbfcf75a3efc70",
+  "title": {
+    "kh": "",
+    "en": "PROLINK"
+  },
+  "logo": "BQgOF1WdRxgEBzuvgmnkkaKYOiVqQbqjtofGxCgKCcq1rD.png",
+  "created_at": {
+    "$date": "2024-07-15T07:27:31.815Z"
+  },
+  "updated_at": {
+    "$date": "2024-07-15T07:27:31.815Z"
+  },
+  "deleted_at": null
+},
+{
+  "_id": "66c2f077183ab46baba32ff0",
+  "store_id": "6690a7d28092ed3c326403af",
+  "owner_id": "66bf248a183ab46baba32fc2",
+  "title": {
+    "kh": "អេសឺ",
+    "en": "ACER"
+  },
+  "logo": "ASXSVXINHNaMf1iFZ1sYMoi1knjtIkJGLVqklWqcEkEaJr.png",
+  "created_at": {
+    "$date": "2024-08-19T07:12:55.250Z"
+  },
+  "updated_at": {
+    "$date": "2024-08-19T07:12:55.250Z"
+  },
+  "deleted_at": null
+},
+{
+  "_id": "66c2f0ab183ab46baba32ff1",
+  "store_id": "6690a7d28092ed3c326403af",
+  "owner_id": "66bf248a183ab46baba32fc2",
+  "title": {
+    "kh": "អេស៊ូស",
+    "en": "ASUS"
+  },
+  "logo": "fXwPonHxhaYqyIWWwEKcfxLCsdiLAsYdxrhmjZMhNWjghi.png",
+  "created_at": {
+    "$date": "2024-08-19T07:13:47.149Z"
+  },
+  "updated_at": {
+    "$date": "2024-08-19T07:13:47.149Z"
+  },
+  "deleted_at": null
+},
+{
+  "_id": "66c2f0c3183ab46baba32ff2",
+  "store_id": "6690a7d28092ed3c326403af",
+  "owner_id": "66bf248a183ab46baba32fc2",
+  "title": {
+    "kh": "ឌែល",
+    "en": "DELL"
+  },
+  "logo": "MVAKviecLfONIYVnnqQZjXgZJhrHRJyETRGgPLZlLOFTYr.png",
+  "created_at": {
+    "$date": "2024-08-19T07:14:11.526Z"
+  },
+  "updated_at": {
+    "$date": "2024-08-19T07:14:11.526Z"
+  },
+  "deleted_at": null
+},
+{
+  "_id": "66c2f10a183ab46baba32ff3",
+  "store_id": "6690a7d28092ed3c326403af",
+  "owner_id": "66bf248a183ab46baba32fc2",
+  "title": {
+    "kh": "អិមអេសអាយ",
+    "en": "MSI"
+  },
+  "logo": "wZghNXXAnjRBDmqytDLoZKGhAlcUoSZAWmBZHbqiOpcIex.png",
+  "created_at": {
+    "$date": "2024-08-19T07:15:22.654Z"
+  },
+  "updated_at": {
+    "$date": "2024-08-19T07:15:22.654Z"
+  },
+  "deleted_at": null
+},
+{
+  "_id": "66c2f154183ab46baba32ff5",
+  "store_id": "6690a7d28092ed3c326403af",
+  "owner_id": "66bf248a183ab46baba32fc2",
+  "title": {
+    "kh": "ឡេនណូវ៉ូ",
+    "en": "LENOVO"
+  },
+  "logo": "qonZyNkRYNuNqEFZgkpmiPupdhDpsWSxQZWUreYzycFyFS.png",
+  "created_at": {
+    "$date": "2024-08-19T07:16:36.424Z"
+  },
+  "updated_at": {
+    "$date": "2024-08-19T07:16:36.424Z"
+  },
+  "deleted_at": null
+},
+{
+  "_id": "66c2f1c7183ab46baba32ff6",
+  "store_id": "6690a7d28092ed3c326403af",
+  "owner_id": "66bf248a183ab46baba32fc2",
+  "title": {
+    "kh": "ប្រាដ័រ",
+    "en": "BROTHER"
+  },
+  "logo": "ItHLuFlyPZZDVaZZcAQfJAgbntduSCZOlwUCKqlPEG1uLE.png",
+  "created_at": {
+    "$date": "2024-08-19T07:18:31.207Z"
+  },
+  "updated_at": {
+    "$date": "2024-08-19T07:18:31.207Z"
+  },
+  "deleted_at": null
+},
+{
+  "_id": "66c2f1ec183ab46baba32ff7",
+  "store_id": "6690a7d28092ed3c326403af",
+  "owner_id": "66bf248a183ab46baba32fc2",
+  "title": {
+    "kh": "អេបសឹន",
+    "en": "EPSON"
+  },
+  "logo": "uYbmcZlGeBftAtAwfLbwxkmRUtmzKc1DqPPaNXkCrmOJoG.png",
+  "created_at": {
+    "$date": "2024-08-19T07:19:08.425Z"
+  },
+  "updated_at": {
+    "$date": "2024-08-19T07:19:08.425Z"
+  },
+  "deleted_at": null
+},
+{
+  "_id": "66c2f220183ab46baba32ff8",
+  "store_id": "6690a7d28092ed3c326403af",
+  "owner_id": "66bf248a183ab46baba32fc2",
+  "title": {
+    "kh": "អេចភី",
+    "en": "HP"
+  },
+  "logo": "MzcouDIkkIzGABrRWHqqvPYOoFJRWWcPbRpFfSjVBbqtrV.png",
+  "created_at": {
+    "$date": "2024-08-19T07:20:00.702Z"
+  },
+  "updated_at": {
+    "$date": "2024-08-19T07:20:00.702Z"
+  },
+  "deleted_at": null
+},
+{
+  "_id": "66c2f25d183ab46baba32ff9",
+  "store_id": "6690a7d28092ed3c326403af",
+  "owner_id": "66bf248a183ab46baba32fc2",
+  "title": {
+    "kh": "អ៊ិចព្រីនធ័រ",
+    "en": "XPRINTER"
+  },
+  "logo": "11kJCIPLo1dkwuGupDLKKMdFsJfHQmdkgjZJUmWEoLCtWj.png",
+  "created_at": {
+    "$date": "2024-08-19T07:21:01.287Z"
+  },
+  "updated_at": {
+    "$date": "2024-08-19T07:21:01.287Z"
+  },
+  "deleted_at": null
+},
+{
+  "_id": "66c2f2d8183ab46baba32ffa",
+  "store_id": "6690a7d28092ed3c326403af",
+  "owner_id": "66bf248a183ab46baba32fc2",
+  "title": {
+    "kh": "អាយអន",
+    "en": "ION"
+  },
+  "logo": "QIoK1BUeqXSEydzNtMFoFGsEbDauiUAjBRIhBbpkgPRrNz.png",
+  "created_at": {
+    "$date": "2024-08-19T07:23:04.788Z"
+  },
+  "updated_at": {
+    "$date": "2024-08-19T07:23:04.788Z"
+  },
+  "deleted_at": null
+},
+{
+  "_id": "66c2f318183ab46baba32ffb",
+  "store_id": "6690a7d28092ed3c326403af",
+  "owner_id": "66bf248a183ab46baba32fc2",
+  "title": {
+    "kh": "ខេនណុន",
+    "en": "CANON"
+  },
+  "logo": "JbxmymcQSfnYmMlnZEpLBKUpPipHUDqzbWydFXTcRQjgvY.png",
+  "created_at": {
+    "$date": "2024-08-19T07:24:08.104Z"
+  },
+  "updated_at": {
+    "$date": "2024-08-19T07:24:08.104Z"
+  },
+  "deleted_at": null
+},
+{
+  "_id": "66c2f36d183ab46baba32ffc",
+  "store_id": "6690a7d28092ed3c326403af",
+  "owner_id": "66bf248a183ab46baba32fc2",
+  "title": {
+    "kh": "មិគី",
+    "en": "MEKI"
+  },
+  "logo": "twdUiHCDSdKTxSfNTAXxlNLtXiQQhBlfMrOdakPOJtBKWE.png",
+  "created_at": {
+    "$date": "2024-08-19T07:25:33.046Z"
+  },
+  "updated_at": {
+    "$date": "2024-08-19T07:25:33.046Z"
+  },
+  "deleted_at": null
+},
+{
+  "_id": "66c2f3aa183ab46baba32ffd",
+  "store_id": "6690a7d28092ed3c326403af",
+  "owner_id": "66bf248a183ab46baba32fc2",
+  "title": {
+    "kh": "អាប៉ូឡូ",
+    "en": "APOLLO"
+  },
+  "logo": "gAjhJNirnrOvjpQhMWuHHUuMwsIxhYaWtovAFDxdeokpRt.png",
+  "created_at": {
+    "$date": "2024-08-19T07:26:34.922Z"
+  },
+  "updated_at": {
+    "$date": "2024-08-19T07:26:34.922Z"
+  },
+  "deleted_at": null
+},
+{
+  "_id": "66c2f3f2183ab46baba32ffe",
+  "store_id": "6690a7d28092ed3c326403af",
+  "owner_id": "66bf248a183ab46baba32fc2",
+  "title": {
+    "kh": "ដាហ័រ",
+    "en": "DAHUA"
+  },
+  "logo": "rJYUfrNZyJIjoAxsmyuMSPGtvnkYQRfxwWMhMozPmC1vbc.png",
+  "created_at": {
+    "$date": "2024-08-19T07:27:46.652Z"
+  },
+  "updated_at": {
+    "$date": "2024-08-19T07:27:46.652Z"
+  },
+  "deleted_at": null
+},
+{
+  "_id": "66c2f42a183ab46baba32fff",
+  "store_id": "6690a7d28092ed3c326403af",
+  "owner_id": "66bf248a183ab46baba32fc2",
+  "title": {
+    "kh": "អូតូម៉ា",
+    "en": "OPTOMA"
+  },
+  "logo": "EVYIGpSzFuWQIRbLwIihtWvLZiiAIaPbHz1gwCIUMmTJjQ.png",
+  "created_at": {
+    "$date": "2024-08-19T07:28:42.050Z"
+  },
+  "updated_at": {
+    "$date": "2024-08-19T07:28:42.050Z"
+  },
+  "deleted_at": null
+},
+{
+  "_id": "66c2f460183ab46baba33000",
+  "store_id": "6690a7d28092ed3c326403af",
+  "owner_id": "66bf248a183ab46baba32fc2",
+  "title": {
+    "kh": "អាប៉េសេ",
+    "en": "APC"
+  },
+  "logo": "rYzwTjkRKNBrWhqVeSmkCGwPhbTTPLWzHwcoNoOHEhbyTV.png",
+  "created_at": {
+    "$date": "2024-08-19T07:29:36.638Z"
+  },
+  "updated_at": {
+    "$date": "2024-08-19T07:29:36.638Z"
+  },
+  "deleted_at": null
+},
+{
+  "_id": "66c2f496183ab46baba33001",
+  "store_id": "6690a7d28092ed3c326403af",
+  "owner_id": "66bf248a183ab46baba32fc2",
+  "title": {
+    "kh": "ប្រូលីង",
+    "en": "PROLINK"
+  },
+  "logo": "cjqLptDXnIvgPoOGMFNfSpHjKUgTGUvbtAzbpLAKEAHqXS.png",
+  "created_at": {
+    "$date": "2024-08-19T07:30:30.034Z"
+  },
+  "updated_at": {
+    "$date": "2024-08-19T07:30:30.034Z"
+  },
+  "deleted_at": null
+},
+{
+  "_id": "66c2f4c6183ab46baba33002",
+  "store_id": "6690a7d28092ed3c326403af",
+  "owner_id": "66bf248a183ab46baba32fc2",
+  "title": {
+    "kh": "ឌីលីង",
+    "en": "DLINK"
+  },
+  "logo": "K1unyqjaKyIqOSBszBSVlBcqGibAofblEbxFkbZrGFXqdy.png",
+  "created_at": {
+    "$date": "2024-08-19T07:31:18.609Z"
+  },
+  "updated_at": {
+    "$date": "2024-08-19T07:31:18.609Z"
+  },
+  "deleted_at": null
+},
+{
+  "_id": "66c2f506183ab46baba33003",
+  "store_id": "6690a7d28092ed3c326403af",
+  "owner_id": "66bf248a183ab46baba32fc2",
+  "title": {
+    "kh": "ធីភីលីង",
+    "en": "TP-LINK"
+  },
+  "logo": "xloTNxgCyTDTbLMjRlPnYTxcllFprzJxf1MvXNBbUmcCkd.png",
+  "created_at": {
+    "$date": "2024-08-19T07:32:22.419Z"
+  },
+  "updated_at": {
+    "$date": "2024-08-19T07:32:22.419Z"
+  },
+  "deleted_at": null
+},
+{
+  "_id": "66c2f545183ab46baba33004",
+  "store_id": "6690a7d28092ed3c326403af",
+  "owner_id": "66bf248a183ab46baba32fc2",
+  "title": {
+    "kh": "តូស៊ីបា",
+    "en": "TOSHIBA"
+  },
+  "logo": "tgqcZolJeHIdlVZMNZUCRaqCXfqptRadifURAtiUDyEzbn.png",
+  "created_at": {
+    "$date": "2024-08-19T07:33:25.144Z"
+  },
+  "updated_at": {
+    "$date": "2024-08-19T07:33:25.144Z"
+  },
+  "deleted_at": null
+},
+{
+  "_id": "66c2f5ba183ab46baba33005",
+  "store_id": "6690a7d28092ed3c326403af",
+  "owner_id": "66bf248a183ab46baba32fc2",
+  "title": {
+    "kh": "ត្រេនស្កេន",
+    "en": "TRANSCEND"
+  },
+  "logo": "MlwbjUUWCzSdOdXRhhmOlCJDlYaaqvoIgaDjceDMWNIN1o.png",
+  "created_at": {
+    "$date": "2024-08-19T07:35:22.088Z"
+  },
+  "updated_at": {
+    "$date": "2024-08-19T07:35:22.088Z"
+  },
+  "deleted_at": null
+},
+{
+  "_id": "66c2f5ef183ab46baba33006",
+  "store_id": "6690a7d28092ed3c326403af",
+  "owner_id": "66bf248a183ab46baba32fc2",
+  "title": {
+    "kh": "ហ៊ីកវីស៊ិន",
+    "en": "HIKVISION"
+  },
+  "logo": "snqMKBEBQgZuorJSkGQnFIaDZBvYZnpyFqzJVQRiOSQjxF.png",
+  "created_at": {
+    "$date": "2024-08-19T07:36:15.493Z"
+  },
+  "updated_at": {
+    "$date": "2024-08-19T07:36:15.493Z"
+  },
+  "deleted_at": null
+},
+{
+  "_id": "66c2f639183ab46baba33009",
+  "store_id": "6690a7d28092ed3c326403af",
+  "owner_id": "66bf248a183ab46baba32fc2",
+  "title": {
+    "kh": "ហាន់នីវែល",
+    "en": "HONEYWELL"
+  },
+  "logo": "GfmzmZvCu1LrpfVWVgNqiWrJKPzxqBIYkkHMzNjoiJTtfQ.png",
+  "created_at": {
+    "$date": "2024-08-19T07:37:29.396Z"
+  },
+  "updated_at": {
+    "$date": "2024-08-19T07:37:29.396Z"
+  },
+  "deleted_at": null
+},
+{
+  "_id": "66c2f676183ab46baba3300a",
+  "store_id": "6690a7d28092ed3c326403af",
+  "owner_id": "66bf248a183ab46baba32fc2",
+  "title": {
+    "kh": "អេបផល",
+    "en": "APPLE"
+  },
+  "logo": "nNuVjkRBqzMzLyGxrPdiOdGhRZyBQQmSNhQltGndUhyqyb.png",
+  "created_at": {
+    "$date": "2024-08-19T07:38:30.509Z"
+  },
+  "updated_at": {
+    "$date": "2024-08-19T07:38:30.509Z"
+  },
+  "deleted_at": null
+},
+{
+  "_id": "66c2f6c7183ab46baba3300b",
+  "store_id": "6690a7d28092ed3c326403af",
+  "owner_id": "66bf248a183ab46baba32fc2",
+  "title": {
+    "kh": "យូនីហ្វាយ",
+    "en": "UNIFI"
+  },
+  "logo": "daRgZPZocprBoAgbErnAZvIKsBvuOkwzPpPUCnFtWlAKbf.png",
+  "created_at": {
+    "$date": "2024-08-19T07:39:51.558Z"
+  },
+  "updated_at": {
+    "$date": "2024-08-19T07:39:51.558Z"
+  },
+  "deleted_at": null
+},
+{
+  "_id": "670490e6b086fe5d554a004a",
+  "store_id": "6690a7d28092ed3c326403af",
+  "owner_id": "66bf248a183ab46baba32fc2",
+  "title": {
+    "kh": "Fullmark",
+    "en": "Fullmark"
+  },
+  "logo": "GbYVMmRxZuDEEKetizZhgguOXtlInHMFeDrmriffoQjWcd.png",
+  "created_at": {
+    "$date": "2024-10-08T01:54:46.086Z"
+  },
+  "updated_at": {
+    "$date": "2024-10-08T01:54:46.086Z"
+  },
+  "deleted_at": null
+},
+{
+  "_id": "6708e0b7af8536369972515b",
+  "store_id": "66271a21938a11cdf6a0c5ff",
+  "owner_id": "66a1bc65a36f2c9320a9b0b8",
+  "title": {
+    "kh": "CAM-TONER",
+    "en": "CAM-TONER"
+  },
+  "logo": "WfAeFImaCaFFGVAFvhqfxEgUQqTsokJBfnhkDUQBfyoxau.png",
+  "created_at": {
+    "$date": "2024-10-11T08:24:23.178Z"
+  },
+  "updated_at": {
+    "$date": "2024-10-11T08:24:23.178Z"
+  },
+  "deleted_at": null
+},
+{
+  "_id": "670f2c85b1ad506747cf9807",
+  "store_id": "66271a21938a11cdf6a0c5ff",
+  "owner_id": "65a493f638bbfcf75a3efc70",
+  "title": {
+    "kh": "",
+    "en": "KOOMPI"
+  },
+  "logo": null,
+  "created_at": {
+    "$date": "2024-10-16T03:01:25.013Z"
+  },
+  "updated_at": {
+    "$date": "2024-10-16T03:01:25.013Z"
+  },
+  "deleted_at": null
+},
+{
+  "_id": "65ceb48dbfebfb7802c7f89d",
+  "store_id": "65a74da8226ab73dfa8254e6",
+  "owner_id": "65a74a76226ab73dfa8254e3",
+  "title": {
+    "kh": "",
+    "en": "HP"
+  },
+  "logo": "QmNwiGYijihsmGHGpHQosVhrwwiGoA7JKQcoasjTYPjcW4.png",
+  "created_at": {
+    "$date": "2024-02-16T01:04:13.185Z"
+  },
+  "updated_at": {
+    "$date": "2024-02-16T01:04:13.185Z"
+  },
+  "deleted_at": null
+},
+{
+  "_id": "65ceb4a7bfebfb7802c7f89e",
+  "store_id": "65a74da8226ab73dfa8254e6",
+  "owner_id": "65a74a76226ab73dfa8254e3",
+  "title": {
+    "kh": "",
+    "en": "FUIJIFILM"
+  },
+  "logo": "QmZ4gwABSKQoWMoGQEqTdAH2aFSkkQdvHdQrDC3pQY8FQ7.png",
+  "created_at": {
+    "$date": "2024-02-16T01:04:39.808Z"
+  },
+  "updated_at": {
+    "$date": "2024-02-16T01:04:39.808Z"
+  },
+  "deleted_at": null
+},
+{
+  "_id": "65ceb4babfebfb7802c7f89f",
+  "store_id": "65a74da8226ab73dfa8254e6",
+  "owner_id": "65a74a76226ab73dfa8254e3",
+  "title": {
+    "kh": "",
+    "en": "CANON"
+  },
+  "logo": "QmcshF1RSNBbu1hDpDuLsudBGf2NuRFWPS5K6r7a4KAPjq.png",
+  "created_at": {
+    "$date": "2024-02-16T01:04:58.218Z"
+  },
+  "updated_at": {
+    "$date": "2024-02-16T01:04:58.218Z"
+  },
+  "deleted_at": null
+},
+{
+  "_id": "65ceb4c8bfebfb7802c7f8a0",
+  "store_id": "65a74da8226ab73dfa8254e6",
+  "owner_id": "65a74a76226ab73dfa8254e3",
+  "title": {
+    "kh": "",
+    "en": "EVOLIS"
+  },
+  "logo": "QmY6BQcQcBoZJPXhPhssD6bKjDEMNdCxjzkAaFRpzx6HLC.png",
+  "created_at": {
+    "$date": "2024-02-16T01:05:12.266Z"
+  },
+  "updated_at": {
+    "$date": "2024-02-16T01:05:12.266Z"
+  },
+  "deleted_at": null
+},
+{
+  "_id": "65d425c553e511ece28c8354",
+  "store_id": "65cf2384a65a1186afe3f3ae",
+  "owner_id": "65a2d44c38bbfcf75a3efc59",
+  "title": {
+    "kh": "",
+    "en": "T-Shirt"
+  },
+  "logo": null,
+  "created_at": {
+    "$date": "2024-02-20T04:08:37.662Z"
+  },
+  "updated_at": {
+    "$date": "2024-02-20T04:08:37.662Z"
+  },
+  "deleted_at": null
+},
+{
+  "_id": "65ddaa4d1123b117582efeaa",
+  "store_id": "65a74da8226ab73dfa8254e6",
+  "owner_id": "65a74a76226ab73dfa8254e3",
+  "title": {
+    "kh": "",
+    "en": "LION"
+  },
+  "logo": "QmYqtfUgYg43jFAkXhYfMr1y5YrDEerkuS5he4XKG47FN5.png",
+  "created_at": {
+    "$date": "2024-02-27T09:24:29.811Z"
+  },
+  "updated_at": {
+    "$date": "2024-02-27T09:24:29.811Z"
+  },
+  "deleted_at": null
+},
+{
+  "_id": "65de99fc1123b117582efeb0",
+  "store_id": "65a74da8226ab73dfa8254e6",
+  "owner_id": "65a74a76226ab73dfa8254e3",
+  "title": {
+    "kh": "",
+    "en": "EPSON"
+  },
+  "logo": "QmZ7K7gJAAHYsxTJh9UYBwn3rvT78tHrQTMVRtZw3wcX5W.png",
+  "created_at": {
+    "$date": "2024-02-28T02:27:08.320Z"
+  },
+  "updated_at": {
+    "$date": "2024-02-28T02:27:08.320Z"
+  },
+  "deleted_at": null
+},
+{
+  "_id": "660660370cfc5ddff9698306",
+  "store_id": "65a4a66033b9eda51233220c",
+  "owner_id": "65a2b7bf38bbfcf75a3efc55",
+  "title": {
+    "kh": "",
+    "en": "KOOMPI"
+  },
+  "logo": null,
+  "created_at": {
+    "$date": "2024-03-29T06:31:19.714Z"
+  },
+  "updated_at": {
+    "$date": "2024-03-29T06:31:19.714Z"
+  },
+  "deleted_at": null
+},
+{
+  "_id": "660b7659ae2012b33ae3eb3d",
+  "store_id": "660b1ceae5153394308c7d43",
+  "owner_id": "65a2d44c38bbfcf75a3efc59",
+  "title": {
+    "kh": "",
+    "en": "Apple"
+  },
+  "logo": null,
+  "created_at": {
+    "$date": "2024-04-02T03:07:05.477Z"
+  },
+  "updated_at": {
+    "$date": "2024-04-02T03:07:05.477Z"
+  },
+  "deleted_at": null
+},
+{
+  "_id": "662b720097539b1ca2efff4c",
+  "store_id": "662b50d4d3b0dd1f6699eb42",
+  "owner_id": "65aa2c288fee2e4174c807c6",
+  "title": {
+    "kh": "rdrd",
+    "en": "ee"
+  },
+  "logo": null,
+  "created_at": {
+    "$date": "2024-04-26T09:21:04.349Z"
+  },
+  "updated_at": {
+    "$date": "2024-04-26T09:21:04.349Z"
+  },
+  "deleted_at": null
+},
+{
+  "_id": "662fc6d0c3def94bb5a81bd6",
+  "store_id": "662614d8d940ea1dde401af6",
+  "owner_id": "65a2b7bf38bbfcf75a3efc55",
+  "title": {
+    "kh": "",
+    "en": "Koompi-002"
+  },
+  "logo": "ASXqHZDazEbBaQkeKNFtuxRfPtdYXlZ1qBxudIhLTSuYri.svg+xml",
+  "created_at": {
+    "$date": "2024-04-29T16:12:00.648Z"
+  },
+  "updated_at": {
+    "$date": "2024-04-29T16:12:00.648Z"
+  },
+  "deleted_at": null
+},
+{
+  "_id": "6632158d3331b4307e1072ff",
+  "store_id": "662614d8d940ea1dde401af6",
+  "owner_id": "65a2b7bf38bbfcf75a3efc55",
+  "title": {
+    "kh": null,
+    "en": "jhel"
+  },
+  "logo": null,
+  "created_at": {
+    "$date": "2024-05-01T10:12:29.476Z"
+  },
+  "updated_at": {
+    "$date": "2024-05-01T10:12:29.476Z"
+  },
+  "deleted_at": null
+},
+{
+  "_id": "66321e372cb7b5a4efaf65a1",
+  "store_id": "662614d8d940ea1dde401af6",
+  "owner_id": "65a2b7bf38bbfcf75a3efc55",
+  "title": {
+    "kh": null,
+    "en": "jhel"
+  },
+  "logo": null,
+  "created_at": {
+    "$date": "2024-05-01T10:49:27.895Z"
+  },
+  "updated_at": {
+    "$date": "2024-05-01T10:49:27.895Z"
+  },
+  "deleted_at": null
+},
+{
+  "_id": "6633016a6f8972503c07af91",
+  "store_id": "662614d8d940ea1dde401af6",
+  "owner_id": "65a783ce5088c43c2baf60be",
+  "title": {
+    "kh": null,
+    "en": "jhel"
+  },
+  "logo": null,
+  "created_at": {
+    "$date": "2024-05-02T02:58:50.011Z"
+  },
+  "updated_at": {
+    "$date": "2024-05-02T02:58:50.011Z"
+  },
+  "deleted_at": null
+},
+{
+  "_id": "6647109ea20a1e9de0a2bb8a",
+  "store_id": "66271a21938a11cdf6a0c5ff",
+  "owner_id": "65a493f638bbfcf75a3efc70",
+  "title": {
+    "kh": "",
+    "en": "Nike"
+  },
+  "logo": "FJjnzs1UjglXSszWnrZLMelGSvYuasgjkPqNzjdqiHvu1n.png",
+  "created_at": {
+    "$date": "2024-05-17T08:09:02.836Z"
+  },
+  "updated_at": {
+    "$date": "2024-05-17T08:09:02.836Z"
+  },
+  "deleted_at": null
+},
+{
+  "_id": "664c2219a20a1e9de0a2bb9c",
+  "store_id": "664c1848a20a1e9de0a2bb93",
+  "owner_id": "664c15aaa20a1e9de0a2bb90",
+  "title": {
+    "kh": "food",
+    "en": "Nokora"
+  },
+  "logo": "NaT1jnjuWXVlrOZlRqQaqEYmYhYAgXcdQUjjtgdRBHzQIQ.jpeg",
+  "created_at": {
+    "$date": "2024-05-21T04:24:57.084Z"
+  },
+  "updated_at": {
+    "$date": "2024-05-21T04:24:57.084Z"
+  },
+  "deleted_at": null
+},
+{
+  "_id": "664cc790a20a1e9de0a2bbae",
+  "store_id": "664cc65da20a1e9de0a2bbac",
+  "owner_id": "664cc61ea20a1e9de0a2bba9",
+  "title": {
+    "kh": "ចិន",
+    "en": "CHINA"
+  },
+  "logo": null,
+  "created_at": {
+    "$date": "2024-05-21T16:10:56.356Z"
+  },
+  "updated_at": {
+    "$date": "2024-05-21T16:10:56.356Z"
+  },
+  "deleted_at": null
+},
+{
+  "_id": "664cc7a6a20a1e9de0a2bbaf",
+  "store_id": "664cc65da20a1e9de0a2bbac",
+  "owner_id": "664cc61ea20a1e9de0a2bba9",
+  "title": {
+    "kh": "វៀតណាម",
+    "en": "Vietnam"
+  },
+  "logo": null,
+  "created_at": {
+    "$date": "2024-05-21T16:11:18.436Z"
+  },
+  "updated_at": {
+    "$date": "2024-05-21T16:11:18.436Z"
+  },
+  "deleted_at": null
+},
+{
+  "_id": "664cc7b0a20a1e9de0a2bbb0",
+  "store_id": "664cc65da20a1e9de0a2bbac",
+  "owner_id": "664cc61ea20a1e9de0a2bba9",
+  "title": {
+    "kh": "ថៃ",
+    "en": "Thailand"
+  },
+  "logo": null,
+  "created_at": {
+    "$date": "2024-05-21T16:11:28.051Z"
+  },
+  "updated_at": {
+    "$date": "2024-05-21T16:11:28.051Z"
+  },
+  "deleted_at": null
+},
+{
+  "_id": "664cc7b6a20a1e9de0a2bbb1",
+  "store_id": "664cc65da20a1e9de0a2bbac",
+  "owner_id": "664cc61ea20a1e9de0a2bba9",
+  "title": {
+    "kh": "ខ្មែរ",
+    "en": "Khmer"
+  },
+  "logo": null,
+  "created_at": {
+    "$date": "2024-05-21T16:11:34.682Z"
+  },
+  "updated_at": {
+    "$date": "2024-05-21T16:11:34.682Z"
+  },
+  "deleted_at": null
+},
+{
+  "_id": "6650bee7a20a1e9de0a2bbdd",
+  "store_id": "66506208a20a1e9de0a2bbd8",
+  "owner_id": "65f9524dcb45ba8c0a53116e",
+  "title": {
+    "kh": "",
+    "en": "KOOMPI"
+  },
+  "logo": "gSDETaMGOC1TIJpYkRYxOxlrPjwclxSOflJwNqrhcy1DbY.png",
+  "created_at": {
+    "$date": "2024-05-24T16:23:03.405Z"
+  },
+  "updated_at": {
+    "$date": "2024-05-24T16:23:03.405Z"
+  },
+  "deleted_at": null
+},
+{
+  "_id": "66583c69ff6c5bdaddb31587",
+  "store_id": "66271a21938a11cdf6a0c5ff",
+  "owner_id": "65a493f638bbfcf75a3efc70",
+  "title": {
+    "kh": "",
+    "en": "Adidas"
+  },
+  "logo": "TsRUQjCieqheBFLVHs1lSxtqKyrfjAYbXyqqWFHMSVukUo.png",
+  "created_at": {
+    "$date": "2024-05-30T08:44:25.799Z"
+  },
+  "updated_at": {
+    "$date": "2024-05-30T08:44:25.799Z"
+  },
+  "deleted_at": null
+},
+{
+  "_id": "66583c73ff6c5bdaddb31588",
+  "store_id": "66271a21938a11cdf6a0c5ff",
+  "owner_id": "65a493f638bbfcf75a3efc70",
+  "title": {
+    "kh": "",
+    "en": "Puma"
+  },
+  "logo": "QVGJBRMfoOactRqTj1HhGHWq1gBDtWmGEaLuSgeqZsXdqb.png",
+  "created_at": {
+    "$date": "2024-05-30T08:44:35.897Z"
+  },
+  "updated_at": {
+    "$date": "2024-05-30T08:44:35.897Z"
+  },
+  "deleted_at": null
+},
+{
+  "_id": "66583c98ff6c5bdaddb31589",
+  "store_id": "66271a21938a11cdf6a0c5ff",
+  "owner_id": "65a493f638bbfcf75a3efc70",
+  "title": {
+    "kh": "",
+    "en": "Mizuno"
+  },
+  "logo": "JJOibMESaKjYbwEUkKuziImnitGw1LKvFqQuXvhrKoptrm.png",
+  "created_at": {
+    "$date": "2024-05-30T08:45:12.417Z"
+  },
+  "updated_at": {
+    "$date": "2024-05-30T08:45:12.417Z"
+  },
+  "deleted_at": null
+},
+{
+  "_id": "66583cdaff6c5bdaddb3158a",
+  "store_id": "66271a21938a11cdf6a0c5ff",
+  "owner_id": "65a493f638bbfcf75a3efc70",
+  "title": {
+    "kh": "",
+    "en": "New Balance"
+  },
+  "logo": "squutGJWXsGupjVuZleofdLMArJ1BQQGXNRdPYpEeFKQkh.png",
+  "created_at": {
+    "$date": "2024-05-30T08:46:18.615Z"
+  },
+  "updated_at": {
+    "$date": "2024-05-30T08:46:18.615Z"
+  },
+  "deleted_at": null
+},
+{
+  "_id": "66583ce7ff6c5bdaddb3158b",
+  "store_id": "66271a21938a11cdf6a0c5ff",
+  "owner_id": "65a493f638bbfcf75a3efc70",
+  "title": {
+    "kh": "",
+    "en": "Umbro"
+  },
+  "logo": "UtykDsBlxZxRerekc1vVmeBVptovzJWYyJJAnKqR1ZDlAx.png",
+  "created_at": {
+    "$date": "2024-05-30T08:46:31.181Z"
+  },
+  "updated_at": {
+    "$date": "2024-05-30T08:46:31.181Z"
+  },
+  "deleted_at": null
+},
+{
+  "_id": "66583d48ff6c5bdaddb3158e",
+  "store_id": "66271a21938a11cdf6a0c5ff",
+  "owner_id": "65a493f638bbfcf75a3efc70",
+  "title": {
+    "kh": "",
+    "en": "Converse"
+  },
+  "logo": "jbZnscqDfRXFJvyEDwSWJXpMbXPhHnsfoIPolFYrjrtqkq.png",
+  "created_at": {
+    "$date": "2024-05-30T08:48:08.908Z"
+  },
+  "updated_at": {
+    "$date": "2024-05-30T08:48:08.908Z"
+  },
+  "deleted_at": null
+},
+{
+  "_id": "66583d53ff6c5bdaddb3158f",
+  "store_id": "66271a21938a11cdf6a0c5ff",
+  "owner_id": "65a493f638bbfcf75a3efc70",
+  "title": {
+    "kh": "",
+    "en": "Vans"
+  },
+  "logo": "yKwCeWsbTehzgmjCAniPsGZLsn1VNWGqHAdpnWiyBCRFwH.png",
+  "created_at": {
+    "$date": "2024-05-30T08:48:19.181Z"
+  },
+  "updated_at": {
+    "$date": "2024-05-30T08:48:19.181Z"
+  },
+  "deleted_at": null
+},
+{
+  "_id": "66583d5dff6c5bdaddb31590",
+  "store_id": "66271a21938a11cdf6a0c5ff",
+  "owner_id": "65a493f638bbfcf75a3efc70",
+  "title": {
+    "kh": "",
+    "en": "Crocs"
+  },
+  "logo": "ChUVneVqSzWOuNwXYZcmLTDKpNWqGNXzqOmpHeeKYQrWay.png",
+  "created_at": {
+    "$date": "2024-05-30T08:48:29.995Z"
+  },
+  "updated_at": {
+    "$date": "2024-05-30T08:48:29.995Z"
+  },
+  "deleted_at": null
+},
+{
+  "_id": "66583d70ff6c5bdaddb31591",
+  "store_id": "66271a21938a11cdf6a0c5ff",
+  "owner_id": "65a493f638bbfcf75a3efc70",
+  "title": {
+    "kh": "",
+    "en": "Birkenstock"
+  },
+  "logo": "JjLszkEFicrqeNJzDNkuLnGSqACcntMFJolowGIGfiYNAU.png",
+  "created_at": {
+    "$date": "2024-05-30T08:48:48.079Z"
+  },
+  "updated_at": {
+    "$date": "2024-05-30T08:48:48.079Z"
+  },
+  "deleted_at": null
+},
+{
+  "_id": "66583d83ff6c5bdaddb31593",
+  "store_id": "66271a21938a11cdf6a0c5ff",
+  "owner_id": "65a493f638bbfcf75a3efc70",
+  "title": {
+    "kh": "",
+    "en": "Timberland"
+  },
+  "logo": "nLfroaohabwz1NuJrTiDeuTQZuQPuWfgZEgvRqDmDHnjkE.png",
+  "created_at": {
+    "$date": "2024-05-30T08:49:07.005Z"
+  },
+  "updated_at": {
+    "$date": "2024-05-30T08:49:07.005Z"
+  },
+  "deleted_at": null
+},
+{
+  "_id": "6718a1eb2d48bcfccc94ffcb",
+  "store_id": "65a74da8226ab73dfa8254e6",
+  "owner_id": "65a74a76226ab73dfa8254e3",
+  "title": {
+    "kh": "",
+    "en": "CAM-TONER "
+  },
+  "logo": "Mm1JJXqGmatdZJIzCnqRYQmRItIdfBrPUWqjboCPYUoWQI.jpeg",
+  "created_at": {
+    "$date": "2024-10-23T07:12:43.567Z"
+  },
+  "updated_at": {
+    "$date": "2024-10-23T07:12:43.567Z"
+  },
+  "deleted_at": null
+}]
